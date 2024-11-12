@@ -26,7 +26,7 @@
           <li class="nav-item">
             <a class="nav-link link-dark ps-2
             <?php echo (isset($_GET['x']) && $_GET['x']=='about') ? 'active link-light' :'link-dark';?>" 
-            href="index.php?x=product"><i class="bi bi-person-circle"></i> About</a>
+            href="index.php?x=about"><i class="bi bi-person-circle"></i> About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link link-dark ps-2
